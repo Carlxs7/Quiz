@@ -5,21 +5,30 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/style.css">
-    <title>Jogo de Quiz</title>
+    <link rel="icon" href="img/logo.png">
+    <title>Quiz de JavaScript</title>
 </head>
 
 <body>
+<div class="container">
+    <div class="progress-bar">
+    <span id="progress-text">1 — 20</span>
+    <div class="progress-line">
+        <div id="progress-fill"></div>
+    </div>
+</div>
+
     <div class="app">
-        <h1>Quiz</h1>
+        <h1>Quiz de <span class="game">JavaScript</span>📙</h1>
         <div class="quiz">
-            <h2 id="question">Question goes here</h2>
+            <h2 id="question">Questões</h2>
             <div id="answer-buttons">
-                <button class="btn">Answer 1</button>
-                <button class="btn">Answer 2</button>
-                <button class="btn">Answer 3</button>
-                <button class="btn">Answer 4</button>
+                <button class="btn">Opção 1</button>
+                <button class="btn">Opção 2</button>
+                <button class="btn">Opção 3</button>
+                <button class="btn">Opção 4</button>
             </div>
-            <button id="next-btn">Next</button>
+            <button id="next-btn">Próxima</button>
         </div>
     </div>
     </div>

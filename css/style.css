@@ -51,7 +51,7 @@ body {
     transition: all 0.3s;
 }
 
-.btn:hover.btn:hover:not([disabled]) {
+.btn:hover:not([disabled]) {
     background: var(--gray);
     color: var(--white);
 }
@@ -74,10 +74,10 @@ body {
 }
 
 .correct {
-    background: var(--gren);
+    background: var(--green);
 }
 
-.incorret {
+.incorrect {
     background: var(--red);
 }
 

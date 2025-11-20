@@ -15,7 +15,7 @@ Bem-vindo ao **Quiz de JavaScript**, um projeto interativo desenvolvido com **HT
 
 <img width="1044" height="751" alt="image" src="https://github.com/user-attachments/assets/e451b32b-66e9-4524-9a4d-57013be6b120" />
 
-🔗 [Acesse o projeto online](https://carlxs7.github.io/Quiz/)
+🔗 [Acesse o projeto online](https://carlxs7.github.io/QuizJS/)
 </div>
 
 ## 📋 Funcionalidades

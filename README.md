@@ -33,7 +33,7 @@ Bem-vindo ao **Quiz de JavaScript**, um projeto interativo desenvolvido com **HT
 1. **Clone ou baixe** o repositório.
 2. Certifique-se que os arquivos estão organizados como abaixo:
    ```
-   QuizJS/
+   Quiz/
    ├── index.html
    ├── css/
    │   ├── style.css
